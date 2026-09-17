@@ -8,8 +8,9 @@ export const config = {
 // КОНФИГУРАЦИЯ: Связка ID группы ВКонтакте и URL Google Apps Script
 // Добавляйте сюда новые строки для каждого нового бота
 const BOT_ROUTES = {
-  "237389652": "https://script.google.com/macros/s/AKfycbxEhpewNP0z_3dPdpQX9BLbwpYasg5ZE55xv_y2Da7zOImwGF_Zsa2jK83wHKfJHhcd/exec",
-  "7636311": "https://script.google.com/macros/s/AKfycbxEhpewNP0z_3dPdpQX9BLbwpYasg5ZE55xv_y2Da7zOImwGF_Zsa2jK83wHKfJHhcd/exec",
+  "237389652": "https://script.google.com/macros/s/AKfycbxEhpewNP0z_3dPdpQX9BLbwpYasg5ZE55xv_y2Da7zOImwGF_Zsa2jK83wHKfJHhcd/exec", // Витус.Видео
+  "7636311": "https://script.google.com/macros/s/AKfycbxEhpewNP0z_3dPdpQX9BLbwpYasg5ZE55xv_y2Da7zOImwGF_Zsa2jK83wHKfJHhcd/exec", // Глагол.Труппа
+  "370748": "https://script.google.com/macros/s/AKfycbxEhpewNP0z_3dPdpQX9BLbwpYasg5ZE55xv_y2Da7zOImwGF_Zsa2jK83wHKfJHhcd/exec", // Глагол.Народный театр
 };
 
 export default async function handler(req, res) {
