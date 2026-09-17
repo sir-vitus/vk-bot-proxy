@@ -9,6 +9,7 @@ export const config = {
 // Добавляйте сюда новые строки для каждого нового бота
 const BOT_ROUTES = {
   "237389652": "https://script.google.com/macros/s/AKfycbxEhpewNP0z_3dPdpQX9BLbwpYasg5ZE55xv_y2Da7zOImwGF_Zsa2jK83wHKfJHhcd/exec",
+  "7636311": "https://script.google.com/macros/s/AKfycbxEhpewNP0z_3dPdpQX9BLbwpYasg5ZE55xv_y2Da7zOImwGF_Zsa2jK83wHKfJHhcd/exec",
 };
 
 export default async function handler(req, res) {
