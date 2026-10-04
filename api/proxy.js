@@ -11,6 +11,7 @@ const BOT_ROUTES = {
   "237389652": "https://script.google.com/macros/s/AKfycbxEhpewNP0z_3dPdpQX9BLbwpYasg5ZE55xv_y2Da7zOImwGF_Zsa2jK83wHKfJHhcd/exec", // Витус.Видео
   "7636311": "https://script.google.com/macros/s/AKfycbxEhpewNP0z_3dPdpQX9BLbwpYasg5ZE55xv_y2Da7zOImwGF_Zsa2jK83wHKfJHhcd/exec", // Глагол.Труппа
   "370748": "https://script.google.com/macros/s/AKfycbylwMrMZjpZi8PdCW6dmr2PEziNFz2DPQBCpoC1MhUcrI5OZEqBXZTBabNFPEdxSnB1fA/exec", // Глагол.Народный театр
+  "242016739": "https://script.google.com/macros/s/AKfycbylwMrMZjpZi8PdCW6dmr2PEziNFz2DPQBCpoC1MhUcrI5OZEqBXZTBabNFPEdxSnB1fA/exec", // Билетёр «Глагола»
 };
 
 export default async function handler(req, res) {
